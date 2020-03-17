@@ -1,2 +1,2 @@
-geometry : geometry.c
-    gcc -Wall -o test geometry.c
+geometry : main.c
+    gcc -Wall -o test main.c
